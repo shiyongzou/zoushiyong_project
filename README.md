@@ -1,6 +1,6 @@
 # zsy_cli
 
-A new Flutter project.
+Flutter 模版
 
 ## Getting Started
 
